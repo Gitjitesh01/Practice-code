@@ -1,0 +1,15 @@
+.container {
+  height: auto;
+  width: 100%;
+  background-color: red;
+}
+.Ai {
+  background-color: aqua;
+  color: black;
+  border: 2px solid red;
+}
+
+.user1 {
+  border: 2px solid white;
+  height: 50px;
+}
